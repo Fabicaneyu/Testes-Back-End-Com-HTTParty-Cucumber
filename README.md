@@ -1,6 +1,10 @@
 # Automatização de API do tipo Restful
 
-# Framework e Ferramensat
+Curso da QALizando
+https://www.youtube.com/playlist?list=PL0nYAInGtru2rRzyZqUB4xxxJE23LKb1g do Antonio Lima (https://www.linkedin.com/in/antonio-lima-qalizando/)
+
+
+# Framework e Ferramentas
 
 HTTParty
 Cucumber
